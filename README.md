@@ -1,7 +1,24 @@
-# ruby
+# README
 
-## Apresentação
+This README would normally document whatever steps are necessary to get the
+application up and running.
 
-Esta página irá apresentar as alterações do programa criado como aprendizagem e também uso comercial.
+Things you may want to cover:
 
-`--> A cópia passa a ser autorizada.`
+* Ruby version
+
+* System dependencies
+
+* Configuration
+
+* Database creation
+
+* Database initialization
+
+* How to run the test suite
+
+* Services (job queues, cache servers, search engines, etc.)
+
+* Deployment instructions
+
+* ...
