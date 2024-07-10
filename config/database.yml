@@ -21,7 +21,12 @@ default: &default
 
 development:
   <<: *default
+  adapter: postgresql
   database: ruby_development
+  username: claudio
+  password: TiPeSo@1317
+  pool: 5
+  timeout: 5000
 
   # The specified database role being used to connect to PostgreSQL.
   # To create additional roles in PostgreSQL see `$ createuser --help`.
